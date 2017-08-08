@@ -1,2 +1,5 @@
 # sha2017-badge-apps
 MicroPython apps for the SHA2017 conference badge
+(So far just one)
+
+* c*ock - a swearing clock 
